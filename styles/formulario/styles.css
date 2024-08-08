@@ -108,6 +108,10 @@
     display: none;
 }
 
+.formulario__imagem:hover{
+    cursor: pointer;
+}
+
 .formulario__botao--ancora {
     text-decoration: none;
     width: 50%;
